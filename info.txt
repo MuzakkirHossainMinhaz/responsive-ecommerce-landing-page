@@ -1,0 +1,13 @@
+products:
+1. iPhone 14 Pro Max (Gold)
+2. Galaxy S22 Ultra
+3. Xiaomi 13 Pro
+4. Oppo A4
+5. iPhone 13 Pro Max
+6. Galaxy A53 5G
+7. Xiaomi Mi 11 Lite
+8. Oppo F11 Pro
+9. Xiaomi Redmi 4x
+10. Nokia Global-9
+11. Apple 6s OS:13
+12. Vivo Global 9
