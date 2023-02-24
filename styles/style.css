@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header section */
+.header-section {
+    background-image: url(/images/header.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.card {
+    padding: 12px 0 0 0;
+}
+
+.card-img {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 12px;
+}
+
+.card-header {
+    text-align: center;
+    color: #fff;
+    background-color: #0000001a;
+}
+
+.bg-gradient1 {
+    background: linear-gradient(45deg, #f54ea2, #ff7676);
+}
+
+.bg-gradient2 {
+    background: linear-gradient(45deg, #ca3cf8, #00BCD4);
+}
+
+.bg-gradient3 {
+    background: linear-gradient(45deg, #36a1ff, #16c7dd);
+}
+
+.bg-gradient4 {
+    background: linear-gradient(45deg, #ff479c, #ffac11);
+}
+
+.up-comming-img {
+    background-image: url(/images/banners/banner2.jpg);
+    background-size: cover;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.banner2 {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+
+    /* box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.4); */
+}
+
+.carousel-caption {
+    color: rgb(24, 23, 23);
+    top: 0;
+}
+
+.percentage {
+    color: #f44336;
+}
+
+.card-title {
+    background-color: #f6f6f6;
+    padding: 10px;
+}
+
+.card-img {
+    margin: 0px auto;
+    width: 85%;
+}
+
+footer {
+    background-color: #1d1c1e;
+    color: #dfdfdf;
+}
