@@ -20,6 +20,9 @@ To use this landing page, simply download the repository and open the <b>`index.
 ## Customization
 This landing page can be easily customized to fit your needs. You can change the colors, fonts, images, and layout of the page by modifying the CSS code. You can also add or remove sections of the page by modifying the HTML code.
 
+## Contribution Guidelines
+This is a personal project and contributions are not expected. However, if you would like to suggest improvements, feel free to open an issue or submit a pull request.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE.md](/LICENSE.md) file for more information.
 
